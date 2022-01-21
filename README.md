@@ -1,5 +1,5 @@
-- 👋 Oi, me chamo @jobsonjp (Jobson Morais de Medeiros)
-- 👀 Tenho interesse em integrar projetos como júnior (frontend e backend)
+- 👋 Sou @jobsonjp (Jobson Morais de Medeiros)
+- 👀 Tenho interesse em integrar projetos como júnior (frontend ou backend)
 - 🌱 Estou revisando o básico da web: HTML, CSS e JS, e Java e Python
 - 💞️ Gostaria de colaboração para um projeto de porte médio (tipo portal de notícia)
 - 📫 Como chegar até mim? WhatsApp +55 83 9 9691-2906 (Tim) 
